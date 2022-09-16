@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFDemoInQCForCodeSetupInRepository"
 		},
+		"adflinkedservice_nexxedpqcdatalake_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
