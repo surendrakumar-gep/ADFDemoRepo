@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemoInQCForCodeSetupInRepository",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eae45225-5dbc-4845-b493-4b2d7be1f54f",
+		"tenantId": "e3a291d3-8a20-4c35-8d08-38ffcafa479d"
+	}
+}
